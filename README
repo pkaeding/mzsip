@@ -1,0 +1,1 @@
+A SIP softphone applet that doesn't provide any UI on its own, but presents an API that can be interacted with via javascript.
